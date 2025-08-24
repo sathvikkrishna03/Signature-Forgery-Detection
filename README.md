@@ -1,6 +1,3 @@
-Here’s a professional **README.md** draft tailored for your GitHub public repository based on the uploaded project report:
-
----
 
 # Signature Forgery Detection
 
@@ -137,6 +134,4 @@ Evaluation Metrics: **Accuracy, Precision, Recall, F1-Score**.
 
 This project is open-source under the **MIT License**.
 
----
 
-Do you want me to also **add badges (build, license, Python version, accuracy, etc.)** at the top of the README so it looks more professional for GitHub?
